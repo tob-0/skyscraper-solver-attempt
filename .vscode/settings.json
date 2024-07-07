@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"limits": "c",
+		"string.h": "c",
+		"stdlib.h": "c",
+		"grid.h": "c",
+		"strings.h": "c",
+		"unistd.h": "c",
+		"arguments.h": "c"
+	}
+}
